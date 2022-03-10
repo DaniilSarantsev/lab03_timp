@@ -1,0 +1,3 @@
+/Users/daniildanilov/lab03_timp/formatter_lib/_build/CMakeFiles/formatter.dir
+/Users/daniildanilov/lab03_timp/formatter_lib/_build/CMakeFiles/edit_cache.dir
+/Users/daniildanilov/lab03_timp/formatter_lib/_build/CMakeFiles/rebuild_cache.dir
